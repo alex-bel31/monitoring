@@ -65,7 +65,7 @@
     <img src="img/explore-t8.JPG">
     </center>
 
-9. Cкриншот списока ***measurments*** в веб-интерфейсе базы `telegraf.autogen`
+9. Cкриншот списока **measurments** в веб-интерфейсе базы `telegraf.autogen`
 
     <center>
     <img src="img/docker-t9.JPG">
@@ -73,7 +73,7 @@
 
 10. Создаём словарь `metrics`, добавляем текущую временную метку. Далее читаем соответсвующие файлы в /`proc`, извлекаем нужные нам строки и записываем в  `metrics`. Преобразуем словарь в строку JSON и записываем в файл.
 
-    - Реализацию python3-скрипта можно посмотреть в [awesome_monitor.py]()
+    - Реализацию python3-скрипта можно посмотреть в [awesome_monitor.py](https://github.com/alex-bel31/monitoring/blob/main/monitor-02-systems/awesome_monitor.py)
 
     - Конфигурация сrontab:
 
@@ -81,4 +81,4 @@
         * * * * * /usr/bin/python3 /home/alexbel77/netology/monitoring/monitor-02-systems/awesome_monitor.py
         ```
 
-    - Сформированный лог-файл [awesome_monitor.py](25-08-01-awesome-monitoring.log)
+    - Сформированный лог-файл [25-08-01-awesome-monitoring.log](https://github.com/alex-bel31/monitoring/blob/main/monitor-02-systems/25-08-01-awesome-monitoring.log)
