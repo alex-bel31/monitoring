@@ -1,0 +1,7 @@
+{"timestamp": 1754054701, "cpu_user": 25260, "cpu_system": 15603, "mem_total_kb": 4009700, "mem_free_kb": 1063640, "loadavg_1min": 0.0}
+{"timestamp": 1754054761, "cpu_user": 25345, "cpu_system": 15701, "mem_total_kb": 4009700, "mem_free_kb": 1064416, "loadavg_1min": 0.0}
+{"timestamp": 1754054821, "cpu_user": 25490, "cpu_system": 15766, "mem_total_kb": 4009700, "mem_free_kb": 1054116, "loadavg_1min": 0.23}
+{"timestamp": 1754054881, "cpu_user": 25526, "cpu_system": 15813, "mem_total_kb": 4009700, "mem_free_kb": 1053864, "loadavg_1min": 0.14}
+{"timestamp": 1754054941, "cpu_user": 25569, "cpu_system": 15862, "mem_total_kb": 4009700, "mem_free_kb": 1052352, "loadavg_1min": 0.14}
+{"timestamp": 1754055001, "cpu_user": 25659, "cpu_system": 15918, "mem_total_kb": 4009700, "mem_free_kb": 1042816, "loadavg_1min": 0.05}
+{"timestamp": 1754055061, "cpu_user": 25705, "cpu_system": 15967, "mem_total_kb": 4009700, "mem_free_kb": 1042816, "loadavg_1min": 0.02}
