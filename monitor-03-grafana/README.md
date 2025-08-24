@@ -45,4 +45,4 @@
 
 ## Задание 4
 
-JSON model дашборда [Метрики Node Exporter]()
+JSON model дашборда [Метрики Node Exporter](https://github.com/alex-bel31/monitoring/blob/main/monitor-03-grafana/metricks-node-exporter.json)
